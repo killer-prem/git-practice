@@ -10,6 +10,11 @@ git log
 git diff <filename>
 
 
+privatebranch1 changes
+
+
+
+
 
 
 privatebranch2 changes
